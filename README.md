@@ -7,8 +7,8 @@
 
 ## Instalar
 
-* [SanUSBPlugandPlay.exe](SanUSBPlugandPlay.exe);
-* [sanusb.exe](sanusb.exe).
+* [SanUSBPlugandPlay.exe](https://github.com/SanUSB-grupo/Gravador-Windows/raw/master/SanUSBPlugandPlay.exe);
+* [sanusb.exe](https://github.com/SanUSB-grupo/Gravador-Windows/raw/master/sanusb.exe).
 
 ## Material
 
