@@ -1,11 +1,11 @@
  
 # Instalador do Gravador SANUSB para Windows
 
-Opção 1:
+Opção 1 (Sem Pré-requisitos):
 https://github.com/SanUSB/SanUSB-Win-GUI
 
 Opção 2:
-## Pré requisitos
+## Pré-requisitos
 
  * [Java JRE >= 6](https://www.java.com/pt_BR/download/).
 
